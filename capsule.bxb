@@ -17,6 +17,9 @@ capsule {
     section (Utilities)
     section (MusicAndAudio)
   }
+  store-countries {
+    all
+  }
   capsule-imports {
     import (viv.core) {
       as (core)
